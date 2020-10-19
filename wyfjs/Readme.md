@@ -1,2 +1,1 @@
-Readme wyfjs
 一个专用于计数的小工具
